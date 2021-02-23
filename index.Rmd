@@ -1,19 +1,16 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Dante Torres"
+image: "dante.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/DanteToSe"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/danteadotose"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "danteadotose@gmail.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+Undergraduate student in Genomic Sciences, UNAM.
+Iinterested in Neurobiology, Data Mining, Genetics and Responsible Science.
